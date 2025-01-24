@@ -1,5 +1,5 @@
 "# Project Title"
-This project comprises of thr Node.js and MongoDB database. Basicall, it is an Api.
+This project comprises of thr Node.js and MongoDB database. Basically, it is an Api.
 
 "# Run the project"
 1.First install the folder into local desktop 
